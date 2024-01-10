@@ -1,0 +1,37 @@
+/* styles.css */
+
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 20px;
+}
+
+
+
+.odinrecipeback.indexwords {
+  background-color: turquoise;
+}
+
+.odinrecipeback {
+  padding: 40px;
+  background-color:rgb(213, 194, 194);
+  height: 100px;
+  width: 100px;
+  margin: 60px;
+  border: 20px solid;
+}
+  
+.indexwords {
+  color: blueviolet;
+}
+
+.recipelist {
+  color: yellow;
+  padding: 40px;
+  border: 20px solid;
+  background-color: rgb(6, 6, 80);
+}
+
+/* * {
+  border: 2px solid red;
+}*/
